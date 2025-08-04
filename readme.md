@@ -1,6 +1,4 @@
-# Starbucks Homepage Clone
 
-HTML/CSS clone of Starbucks.com. This is from a [YouTube tutorial](https://youtu.be/x_n2FGNsm0o)
 # Starbucks Landing Page ☕️
 
 A clean and responsive landing page for Starbucks, built using only HTML and CSS. This project replicates a modern brand website layout showcasing the Starbucks look and feel.
